@@ -1,0 +1,102 @@
+text,risk_level
+"I feel a little worried about what happened",LOW
+"I am concerned but I think I can manage this",LOW
+"I feel uncomfortable discussing the incident",LOW
+"I am nervous about what might happen next",LOW
+"I have been feeling uneasy since yesterday",LOW
+"I am worried about making a complaint",LOW
+"I feel scared sometimes when I think about it",LOW
+"I don't feel completely comfortable about the situation",LOW
+"I am unsure what I should do next",LOW
+"I have some concerns but I am currently safe",LOW
+"I feel anxious about speaking to someone",LOW
+"I keep thinking about what happened",LOW
+"I am a little frightened by the situation",LOW
+"I am worried they may contact me again",LOW
+"I don't know how to handle this situation",LOW
+"I feel stressed when I remember the incident",LOW
+"I am uncomfortable going out alone",LOW
+"I am concerned about possible consequences",LOW
+"I feel nervous but there is no immediate danger",LOW
+"I would like some advice about what happened",LOW
+"I am worried about reporting the incident",LOW
+"I feel uneasy when I receive unknown messages",LOW
+"I have been feeling tense since the incident",LOW
+"I am concerned about my privacy",LOW
+"I feel nervous but I am in a safe place",LOW
+"They keep sending me messages and it is making me uncomfortable",MODERATE
+"I feel very anxious whenever I receive their calls",MODERATE
+"I don't feel safe walking home alone anymore",MODERATE
+"I am worried they might come to my workplace",MODERATE
+"I have received several unwanted messages this week",MODERATE
+"I feel nervous whenever I see them nearby",MODERATE
+"I am afraid to tell my family about what happened",MODERATE
+"I keep getting calls from the same person",MODERATE
+"I feel increasingly anxious about the situation",MODERATE
+"I don't know if they will leave me alone",MODERATE
+"They have contacted me several times after I asked them to stop",MODERATE
+"I feel uncomfortable because they know where I work",MODERATE
+"I am scared they might follow me again",MODERATE
+"I feel stressed whenever my phone rings",MODERATE
+"I am worried about going to college because of them",MODERATE
+"I have been avoiding certain places because I feel unsafe",MODERATE
+"They keep asking me to meet them even though I refused",MODERATE
+"I feel frightened when I see their messages",MODERATE
+"I am worried about what they might do later",MODERATE
+"I feel anxious because they keep contacting my friends",MODERATE
+"I don't feel comfortable being alone outside",MODERATE
+"I have been losing sleep because I am worried",MODERATE
+"I am becoming more fearful about the situation",MODERATE
+"They have started contacting me through different accounts",MODERATE
+"I feel pressured to stay quiet about the incident",MODERATE
+"I am afraid they may come looking for me",MODERATE
+"They have been following me repeatedly",HIGH
+"They threatened me when I refused to meet them",HIGH
+"I am afraid they will hurt me if I report this",HIGH
+"They know where I live and have threatened me before",HIGH
+"They keep threatening me whenever I refuse to talk to them",HIGH
+"I think someone is watching and following me",HIGH
+"They threatened my family because I complained",HIGH
+"I am scared because they know my daily routine",HIGH
+"They have been waiting near my workplace",HIGH
+"They told me there would be consequences if I reported them",HIGH
+"I am afraid to leave my house because they have been following me",HIGH
+"They keep intimidating me whenever I try to get help",HIGH
+"They have threatened to harm someone in my family",HIGH
+"I feel unsafe because they know my home address",HIGH
+"They repeatedly threaten me through phone calls",HIGH
+"They are trying to pressure me into withdrawing my complaint",HIGH
+"I am scared they will retaliate against me",HIGH
+"They have been tracking where I go",HIGH
+"They keep appearing near places I visit",HIGH
+"They warned me not to tell anyone about the incident",HIGH
+"I am afraid because they have threatened me several times",HIGH
+"They are harassing me and making threats",HIGH
+"They contacted my family and threatened them",HIGH
+"I feel unsafe because the threats are becoming more serious",HIGH
+"They have been stalking me for several days",HIGH
+"They said they will hurt my parents if I report them",CRITICAL
+"I am hiding right now because they are outside my house",CRITICAL
+"They are here right now and I am afraid for my safety",CRITICAL
+"They threatened to kill me and my family",CRITICAL
+"I don't think I am safe right now",CRITICAL
+"They are outside my home and I am terrified",CRITICAL
+"I am in immediate danger and I don't know what to do",CRITICAL
+"They said they are coming to hurt me right now",CRITICAL
+"I am hiding because the person threatening me is nearby",CRITICAL
+"They have a weapon and I am afraid they will attack me",CRITICAL
+"They are threatening my children right now",CRITICAL
+"I am trapped inside my house and they are outside",CRITICAL
+"They are following me right now and I am scared",CRITICAL
+"I believe they are going to hurt me right now",CRITICAL
+"They are outside my workplace threatening me",CRITICAL
+"I am afraid for my life because of their threats",CRITICAL
+"They threatened to seriously harm my parents tonight",CRITICAL
+"I need help because I am not safe at this moment",CRITICAL
+"They have come to my house and are threatening me",CRITICAL
+"I am hiding from someone who is trying to hurt me",CRITICAL
+"They said they will kill me if I contact the authorities",CRITICAL
+"I am currently being threatened and I am terrified",CRITICAL
+"They are at my location right now and I am afraid",CRITICAL
+"I think they are about to attack me",CRITICAL
+"I need immediate help because I feel my life is in danger",CRITICAL
